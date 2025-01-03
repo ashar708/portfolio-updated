@@ -12,7 +12,7 @@ const NavDropDown = (props) => (
       </DropDownIcon>
       <DropDownTextContainer>
         <DropDownItemTitle>Phone</DropDownItemTitle>
-        <DropDownItemDesc>Let's get together and have a chat?</DropDownItemDesc>
+        <DropDownItemDesc>Lets get together and have a chat?</DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
     <DropDownItem href="#" target="_blank" rel="noreferrer">
