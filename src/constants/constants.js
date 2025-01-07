@@ -37,9 +37,9 @@ export const projects = [
   description: "Using React I have build a static website, with reusable components.",
   image: '/assets/image2.png',
   tags: ['React','Figma Designs'],
-  githublink : 'https://github.com/ashar708/banking',
-  deploymentLinks : 'https://banking-r1u6.vercel.app/',
-  readme: 'https://github.com/ashar708/Restaurant-App/blob/main/README.md',
+  githublink : 'https://github.com/Aarya3848848484/Responsive-Modern-UI-UX-Website-in-React-JS',
+  deploymentLinks : 'https://gpt3-react-ai.netlify.app',
+  readme: 'https://github.com/Aarya3848848484/Responsive-Modern-UI-UX-Website-in-React-JS/blob/main/README.md',
   id: 3,
 },
 {

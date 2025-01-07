@@ -48,8 +48,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-       I am currently a Software Engineer at Optum, currently working in a Cybersecurity Project. I have 1 year 3 months of experience in working with the Sailpoint tool which is an IAM(Identity ad Access Management Tool) which is used to manage the identities and accesses of the users. I have gained knowledge by configuring a source application and correlating identities with application accounts, managing identities using the Lifecycle events and workflows.
-       Apart from engaging in the project I have intereet in Full Stack Development and other domains like Devops as well.
+       I am currently working as a Software Engineer at Optum, currently working in a Cybersecurity Project. I have 1 year 3 months of experience in working with the Sailpoint tool which is an IAM(Identity ad Access Management Tool) which is used to manage the identities and accesses of the users. I have gained knowledge by configuring a source application and correlating identities with application accounts, managing identities using the Lifecycle events and workflows.
+       Apart from engaging in the project I have interest in Full Stack Development and other domains like Devops as well.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
